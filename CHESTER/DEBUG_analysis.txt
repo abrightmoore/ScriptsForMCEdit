@@ -1,0 +1,1365 @@
+(0:0),Air,0
+(0:0),Air,23469
+(1:0),Stone,1
+(1:1),Granite,1
+(1:2),Polished Granite,1
+(1:3),Diorite,1
+(1:4),Polished Diorite,1
+(1:5),Andesite,1
+(1:6),Polished Andesite,1
+(2:0),Grass,2
+(3:0),Dirt,2
+(3:1),Coarse Dirt,2
+(3:2),Podzol,2
+(4:0),Cobblestone,1
+(5:0),Oak Wood Planks,1
+(5:1),Spruce Wood Planks,1
+(5:2),Birch Wood Planks,1
+(5:3),Jungle Wood Planks,1
+(5:4),Acacia Wood Planks,1
+(5:5),Dark Oak Wood Planks,1
+(6:0),Oak Sapling,1
+(6:1),Spruce Sapling,1
+(6:2),Birch Sapling,1
+(6:3),Jungle Sapling,1
+(6:4),Acacia Sapling,1
+(6:5),Dark Oak Sapling,1
+(6:8),Oak Sapling,1
+(6:9),Oak Sapling,1
+(6:10),Oak Sapling,1
+(6:11),Oak Sapling,1
+(6:12),Oak Sapling,1
+(6:13),Oak Sapling,1
+(7:0),Bedrock,1
+(8:0),Water (Flowing),1
+(8:1),Water (Flowing),1
+(8:2),Water (Flowing),1
+(8:3),Water (Flowing),1
+(8:4),Water (Flowing),1
+(8:5),Water (Flowing),1
+(8:6),Water (Flowing),1
+(8:7),Water (Flowing),1
+(8:8),Water (Flowing),1
+(8:9),Water (Flowing),1
+(8:10),Water (Flowing),1
+(8:11),Water (Flowing),1
+(8:12),Water (Flowing),1
+(8:13),Water (Flowing),1
+(8:14),Water (Flowing),1
+(8:15),Water (Flowing),1
+(9:0),Water,16
+(10:0),Lava (Flowing),1
+(10:1),Lava (Flowing),1
+(10:2),Lava (Flowing),1
+(10:3),Lava (Flowing),1
+(10:4),Lava (Flowing),1
+(10:5),Lava (Flowing),1
+(10:6),Lava (Flowing),1
+(10:7),Lava (Flowing),1
+(10:8),Lava (Flowing),1
+(10:9),Lava (Flowing),1
+(10:10),Lava (Flowing),1
+(10:11),Lava (Flowing),1
+(10:12),Lava (Flowing),1
+(10:13),Lava (Flowing),1
+(10:14),Lava (Flowing),1
+(10:15),Lava (Flowing),1
+(11:0),Lava,17
+(12:0),Sand,1
+(12:1),Red Sand,1
+(13:0),Gravel,1
+(14:0),Gold Ore,1
+(15:0),Iron Ore,1
+(16:0),Coal Ore,1
+(17:0),Oak Wood (Upright),1
+(17:1),Spruce Wood (Upright),1
+(17:2),Birch Wood (Upright),1
+(17:3),Jungle Wood (Upright),1
+(17:4),Oak Wood (East/West),1
+(17:5),Spruce Wood (East/West),1
+(17:6),Birch Wood (East/West),1
+(17:7),Jungle Wood (East/West),1
+(17:8),Oak Wood (North/South),1
+(17:9),Spruce Wood (North/South),1
+(17:10),Birch Wood (North/South),1
+(17:11),Jungle Wood (North/South),1
+(17:12),Oak Wood (Bark Only),1
+(17:13),Spruce Wood (Bark Only),1
+(17:14),Birch Wood (Bark Only),1
+(17:15),Jungle Wood (Bark Only),1
+(18:0),Oak Leaves,1
+(18:1),Spruce Leaves,1
+(18:2),Birch Leaves,1
+(18:3),Jungle Leaves,1
+(18:4),Oak Leaves (No Decay),1
+(18:5),Spruce Leaves (No Decay),1
+(18:6),Birch Leaves (No Decay),1
+(18:7),Jungle Leaves (No Decay),1
+(18:8),Oak Leaves (Decaying),1
+(18:9),Spruce Leaves (Decaying),1
+(18:10),Birch Leaves (Decaying),1
+(18:11),Jungle Leaves (Decaying),1
+(18:12),Oak Leaves,1
+(18:13),Oak Leaves,1
+(18:14),Oak Leaves,1
+(18:15),Oak Leaves,1
+(19:0),Sponge,1
+(19:1),Wet Sponge,1
+(20:0),Glass,1
+(21:0),Lapis Lazuli Ore,1
+(22:0),Lapis Lazuli Block,1
+(23:0),Dispenser (Down),1
+(23:1),Dispenser (Up),1
+(23:2),Dispenser (North),1
+(23:3),Dispenser (South),1
+(23:4),Dispenser (West),1
+(23:5),Dispenser (East),1
+(23:8),Dispenser (Down),1
+(23:9),Dispenser (Down),1
+(23:10),Dispenser (Down),1
+(23:11),Dispenser (Down),1
+(23:12),Dispenser (Down),1
+(23:13),Dispenser (Down),1
+(24:0),Sandstone,1
+(24:1),Chiseled Sandstone,1
+(24:2),Smooth Sandstone,1
+(25:0),Note Block,1
+(26:0),Bed,2
+(26:1),Bed,2
+(26:2),Bed,2
+(26:3),Bed,2
+(26:8),Bed,1
+(26:9),Bed,1
+(26:10),Bed,1
+(26:11),Bed,1
+(26:12),Bed,1
+(26:13),Bed,1
+(26:14),Bed,1
+(26:15),Bed,1
+(27:0),Powered Rail,1
+(27:1),Powered Rail,1
+(27:2),Powered Rail,1
+(27:3),Powered Rail,1
+(27:4),Powered Rail,1
+(27:5),Powered Rail,1
+(27:8),Powered Rail,1
+(27:9),Powered Rail,1
+(27:10),Powered Rail,1
+(27:11),Powered Rail,2
+(27:12),Powered Rail,1
+(27:13),Powered Rail,1
+(28:0),Detector Rail,1
+(28:1),Detector Rail,1
+(28:2),Detector Rail,1
+(28:3),Detector Rail,1
+(28:4),Detector Rail,1
+(28:5),Detector Rail,1
+(28:8),Detector Rail,1
+(28:9),Detector Rail,1
+(28:10),Detector Rail,1
+(28:11),Detector Rail,1
+(28:12),Detector Rail,1
+(28:13),Detector Rail,1
+(29:0),Sticky Piston,1
+(29:1),Sticky Piston,1
+(29:2),Sticky Piston,1
+(29:3),Sticky Piston,1
+(29:4),Sticky Piston,1
+(29:5),Sticky Piston,1
+(29:8),Sticky Piston,1
+(29:9),Sticky Piston,1
+(29:10),Sticky Piston,1
+(29:11),Sticky Piston,1
+(29:12),Sticky Piston,1
+(29:13),Sticky Piston,1
+(30:0),Cobweb,1
+(31:0),Tall_Grass(Dead_Shrub),1
+(31:1),Tall Grass,1
+(31:2),Tall Grass (Fern),1
+(32:0),Dead Shrub,1
+(33:0),Piston,1
+(33:1),Piston,1
+(33:2),Piston,1
+(33:3),Piston,1
+(33:4),Piston,1
+(33:5),Piston,1
+(33:8),Piston,1
+(33:9),Piston,1
+(33:10),Piston,1
+(33:11),Piston,1
+(33:12),Piston,1
+(33:13),Piston,1
+(34:0),Piston Head,2
+(34:1),Piston Head,2
+(34:2),Piston Head,2
+(34:3),Piston Head,2
+(34:4),Piston Head,2
+(34:5),Piston Head,2
+(34:8),Piston Head,2
+(34:9),Piston Head,2
+(34:10),Piston Head,2
+(34:11),Piston Head,2
+(34:12),Piston Head,2
+(34:13),Piston Head,2
+(35:0),White Wool,1
+(35:1),Orange Wool,1
+(35:2),Magenta Wool,1
+(35:3),Light Blue Wool,1
+(35:4),Yellow Wool,1
+(35:5),Lime Wool,1
+(35:6),Pink Wool,1
+(35:7),Gray Wool,1
+(35:8),Light Gray Wool,1
+(35:9),Cyan Wool,1
+(35:10),Purple Wool,1
+(35:11),Blue Wool,1
+(35:12),Brown Wool,1
+(35:13),Green Wool,1
+(35:14),Red Wool,1
+(35:15),Black Wool,2
+(36:0),Piston Movement Placeholder,1
+(36:1),Piston Movement Placeholder,1
+(36:2),Piston Movement Placeholder,1
+(36:3),Piston Movement Placeholder,1
+(36:4),Piston Movement Placeholder,1
+(36:5),Piston Movement Placeholder,1
+(36:8),Piston Movement Placeholder,1
+(36:9),Piston Movement Placeholder,1
+(36:10),Piston Movement Placeholder,1
+(36:11),Piston Movement Placeholder,1
+(36:12),Piston Movement Placeholder,1
+(36:13),Piston Movement Placeholder,1
+(37:0),Flower,1
+(38:0),Poppy,1
+(38:1),Blue Orchid,1
+(38:2),Allium,1
+(38:3),Azure Bluet,1
+(38:4),Red Tulip,1
+(38:5),Orange Tulip,1
+(38:6),White Tulip,1
+(38:7),Pink Tulip,1
+(38:8),Oxeye Daisy,1
+(39:0),Brown Mushroom,1
+(40:0),Red Mushroom,1
+(41:0),Block of Gold,1
+(42:0),Block of Iron,1
+(43:0),Double Stone Slab,1
+(43:1),Double Sandstone Slab,1
+(43:2),Double Wooden Slab (Stone),1
+(43:3),Double Cobblestone Slab,1
+(43:4),Double Brick Slab,1
+(43:5),Double Stone Brick Slab,1
+(43:6),Double Nether Brick Slab,1
+(43:7),Double Quartz Slab,1
+(43:8),Smooth Double Stone Slab,1
+(43:9),Smooth Double Sandstone Slab,1
+(43:10),Smooth Double Wooden Slab (Stone),1
+(43:11),Smooth Double Cobblestone Slab,1
+(43:12),Smooth Double Brick Slab,1
+(43:13),Smooth Double Stone Brick Slab,1
+(43:14),Smooth Double Nether Brick Slab,1
+(43:15),Smooth Double Quartz Slab,1
+(44:0),Stone Slab,1
+(44:1),Sandstone Slab,1
+(44:2),Wooden Slab (Stone),1
+(44:3),Cobblestone Slab,1
+(44:4),Brick Slab,1
+(44:5),Stone Brick Slab,1
+(44:6),Nether Brick Slab,1
+(44:7),Quartz Slab,1
+(44:8),Stone Slab (Upper),1
+(44:9),Sandstone Slab (Upper),1
+(44:10),Wooden Slab (Stone) (Upper),1
+(44:11),Cobblestone Slab (Upper),1
+(44:12),Brick Slab (Upper),1
+(44:13),Stone Brick Slab (Upper),1
+(44:14),Nether Brick Slab (Upper),1
+(44:15),Quartz Slab (Upper),1
+(45:0),Brick,1
+(46:0),TNT,1
+(46:1),TNT (Primed),1
+(47:0),Bookshelf,1
+(48:0),Moss Stone,1
+(49:0),Obsidian,1
+(50:1),Torch,1
+(50:2),Torch,1
+(50:3),Torch,1
+(50:4),Torch,1
+(50:5),Torch,1
+(51:0),Fire,194
+(51:1),Fire,195
+(51:2),Fire,194
+(51:3),Fire,194
+(51:4),Fire,194
+(51:5),Fire,194
+(51:6),Fire,194
+(51:7),Fire,195
+(51:8),Fire,194
+(51:9),Fire,194
+(51:10),Fire,194
+(51:11),Fire,194
+(51:12),Fire,194
+(51:13),Fire,194
+(51:14),Fire,195
+(51:15),Fire,194
+(52:0),Monster Spawner,1
+(53:0),Oak Wood Stairs,5
+(53:1),Oak Wood Stairs,5
+(53:2),Oak Wood Stairs,5
+(53:3),Oak Wood Stairs,5
+(53:4),Oak Wood Stairs,5
+(53:5),Oak Wood Stairs,5
+(53:6),Oak Wood Stairs,5
+(53:7),Oak Wood Stairs,5
+(54:2),Chest (North),1
+(54:3),Chest (South),1
+(54:4),Chest (West),1
+(54:5),Chest (East),1
+(55:0),Redstone Wire,81
+(55:1),Redstone Wire,83
+(55:2),Redstone Wire,82
+(55:3),Redstone Wire,82
+(55:4),Redstone Wire,82
+(55:5),Redstone Wire,82
+(55:6),Redstone Wire,81
+(55:7),Redstone Wire,82
+(55:8),Redstone Wire,82
+(55:9),Redstone Wire,82
+(55:10),Redstone Wire,82
+(55:11),Redstone Wire,82
+(55:12),Redstone Wire,82
+(55:13),Redstone Wire,82
+(55:14),Redstone Wire,82
+(55:15),Redstone Wire,82
+(56:0),Diamond Ore,1
+(57:0),Block of Diamond,1
+(58:0),Crafting Table,1
+(59:0),Wheat,1
+(59:1),Wheat,1
+(59:2),Wheat,1
+(59:3),Wheat,1
+(59:4),Wheat,1
+(59:5),Wheat,1
+(59:6),Wheat,1
+(59:7),Wheat,1
+(60:0),Farmland,1
+(60:1),Farmland,1
+(60:2),Farmland,1
+(60:3),Farmland,1
+(60:4),Farmland,1
+(60:5),Farmland,1
+(60:6),Farmland,1
+(60:7),Farmland,1
+(61:2),Furnace (North),1
+(61:3),Furnace (South),1
+(61:4),Furnace (West),1
+(61:5),Furnace (East),1
+(62:2),Lit Furnace (North),1
+(62:3),Lit Furnace (South),1
+(62:4),Lit Furnace (West),1
+(62:5),Lit Furnace (East),1
+(63:0),Sign Post,1
+(63:1),Sign Post,1
+(63:2),Sign Post,1
+(63:3),Sign Post,1
+(63:4),Sign Post,1
+(63:5),Sign Post,1
+(63:6),Sign Post,1
+(63:7),Sign Post,1
+(63:8),Sign Post,1
+(63:9),Sign Post,1
+(63:10),Sign Post,1
+(63:11),Sign Post,1
+(63:12),Sign Post,1
+(63:13),Sign Post,1
+(63:14),Sign Post,1
+(63:15),Sign Post,1
+(64:0),Wooden Door,4
+(64:1),Wooden Door,4
+(64:2),Wooden Door,4
+(64:3),Wooden Door,4
+(64:4),Wooden Door,4
+(64:5),Wooden Door,4
+(64:6),Wooden Door,4
+(64:7),Wooden Door,5
+(64:8),Wooden Door,8
+(64:9),Wooden Door,8
+(64:10),Wooden Door,8
+(64:11),Wooden Door,8
+(65:2),Ladder (North),1
+(65:3),Ladder (South),1
+(65:4),Ladder (West),1
+(65:5),Ladder (East),1
+(66:0),Rail,1
+(66:1),Rail,1
+(66:2),Rail,1
+(66:3),Rail,1
+(66:4),Rail,1
+(66:5),Rail,1
+(66:6),Rail,1
+(66:7),Rail,1
+(66:8),Rail,1
+(66:9),Rail,1
+(67:0),Cobblestone Stairs,5
+(67:1),Cobblestone Stairs,5
+(67:2),Cobblestone Stairs,5
+(67:3),Cobblestone Stairs,5
+(67:4),Cobblestone Stairs,5
+(67:5),Cobblestone Stairs,6
+(67:6),Cobblestone Stairs,5
+(67:7),Cobblestone Stairs,5
+(68:2),Wall Sign,1
+(68:3),Wall Sign,1
+(68:4),Wall Sign,1
+(68:5),Wall Sign,1
+(69:0),Lever,1
+(69:1),Lever,1
+(69:2),Lever,1
+(69:3),Lever,1
+(69:4),Lever,1
+(69:5),Lever,1
+(69:6),Lever,1
+(69:7),Lever,1
+(69:8),Lever,1
+(69:9),Lever,1
+(69:10),Lever,1
+(69:11),Lever,1
+(69:12),Lever,1
+(69:13),Lever,1
+(69:14),Lever,1
+(69:15),Lever,1
+(70:0),Stone Pressure Plate,1
+(70:1),Stone Pressure Plate,1
+(71:0),Iron Door,4
+(71:1),Iron Door,4
+(71:2),Iron Door,4
+(71:3),Iron Door,4
+(71:4),Iron Door,4
+(71:5),Iron Door,4
+(71:6),Iron Door,4
+(71:7),Iron Door,4
+(71:8),Iron Door,9
+(71:9),Iron Door,8
+(71:10),Iron Door,8
+(71:11),Iron Door,8
+(72:0),Wooden Pressure Plate,1
+(72:1),Wooden Pressure Plate,1
+(73:0),Redstone Ore,1
+(74:0),Redstone Ore (Glowing),1
+(75:1),Redstone Torch (Off),1
+(75:2),Redstone Torch (Off),1
+(75:3),Redstone Torch (Off),1
+(75:4),Redstone Torch (Off),1
+(75:5),Redstone Torch (Off),1
+(76:1),Redstone Torch (On),1
+(76:2),Redstone Torch (On),1
+(76:3),Redstone Torch (On),1
+(76:4),Redstone Torch (On),1
+(76:5),Redstone Torch (On),1
+(77:0),Stone Button,1
+(77:1),Stone Button,1
+(77:2),Stone Button,1
+(77:3),Stone Button,1
+(77:4),Stone Button,1
+(77:5),Stone Button,1
+(77:8),Stone Button,1
+(77:9),Stone Button,1
+(77:10),Stone Button,1
+(77:11),Stone Button,1
+(77:12),Stone Button,1
+(77:13),Stone Button,1
+(78:0),Snow Layer,1
+(78:1),Snow Layer,1
+(78:2),Snow Layer,1
+(78:3),Snow Layer,1
+(78:4),Snow Layer,1
+(78:5),Snow Layer,1
+(78:6),Snow Layer,1
+(78:7),Snow Layer,1
+(79:0),Ice,1
+(80:0),Snow,1
+(81:0),Cactus,1
+(81:1),Cactus,1
+(81:2),Cactus,1
+(81:3),Cactus,1
+(81:4),Cactus,1
+(81:5),Cactus,1
+(81:6),Cactus,1
+(81:7),Cactus,1
+(81:8),Cactus,1
+(81:9),Cactus,1
+(81:10),Cactus,1
+(81:11),Cactus,1
+(81:12),Cactus,1
+(81:13),Cactus,1
+(81:14),Cactus,1
+(81:15),Cactus,1
+(82:0),Clay,1
+(83:0),Sugar Cane,1
+(83:1),Sugar Cane,1
+(83:2),Sugar Cane,1
+(83:3),Sugar Cane,1
+(83:4),Sugar Cane,1
+(83:5),Sugar Cane,1
+(83:6),Sugar Cane,1
+(83:7),Sugar Cane,1
+(83:8),Sugar Cane,1
+(83:9),Sugar Cane,1
+(83:10),Sugar Cane,1
+(83:11),Sugar Cane,1
+(83:12),Sugar Cane,1
+(83:13),Sugar Cane,1
+(83:14),Sugar Cane,1
+(83:15),Sugar Cane,1
+(84:0),Jukebox,1
+(84:1),Jukebox,1
+(85:0),Oak Fence,17
+(86:0),Pumpkin (South),1
+(86:1),Pumpkin (West),1
+(86:2),Pumpkin (North),1
+(86:3),Pumpkin (East),1
+(87:0),Netherrack,1
+(88:0),Soul Sand,1
+(89:0),Glowstone,1
+(90:1),Nether Portal,1
+(90:2),Nether Portal,1
+(91:0),Jack-o'-Lantern (South),1
+(91:1),Jack-o'-Lantern (West),1
+(91:2),Jack-o'-Lantern (North),1
+(91:3),Jack-o'-Lantern (East),1
+(92:0),Cake,1
+(92:1),Cake,1
+(92:2),Cake,1
+(92:3),Cake,1
+(92:4),Cake,1
+(92:5),Cake,1
+(92:6),Cake,1
+(93:0),Redstone Repeater (Off) (North),2
+(93:1),Redstone Repeater (Off) (East),2
+(93:2),Redstone Repeater (Off) (South),2
+(93:3),Redstone Repeater (Off) (West),2
+(93:4),Redstone Repeater (Off) (North),2
+(93:5),Redstone Repeater (Off) (North),2
+(93:6),Redstone Repeater (Off) (North),2
+(93:7),Redstone Repeater (Off) (North),2
+(93:8),Redstone Repeater (Off) (North),2
+(93:9),Redstone Repeater (Off) (North),2
+(93:10),Redstone Repeater (Off) (North),2
+(93:11),Redstone Repeater (Off) (North),2
+(93:12),Redstone Repeater (Off) (North),2
+(93:13),Redstone Repeater (Off) (North),2
+(93:14),Redstone Repeater (Off) (North),2
+(93:15),Redstone Repeater (Off) (North),2
+(94:0),Redstone Repeater (On) (North),2
+(94:1),Redstone Repeater (On) (East),2
+(94:2),Redstone Repeater (On) (South),2
+(94:3),Redstone Repeater (On) (West),2
+(94:4),Redstone Repeater (On) (North),2
+(94:5),Redstone Repeater (On) (North),2
+(94:6),Redstone Repeater (On) (North),2
+(94:7),Redstone Repeater (On) (North),2
+(94:8),Redstone Repeater (On) (North),2
+(94:9),Redstone Repeater (On) (North),2
+(94:10),Redstone Repeater (On) (North),2
+(94:11),Redstone Repeater (On) (North),2
+(94:12),Redstone Repeater (On) (North),3
+(94:13),Redstone Repeater (On) (North),2
+(94:14),Redstone Repeater (On) (North),2
+(94:15),Redstone Repeater (On) (North),2
+(95:0),White Stained Glass,1
+(95:1),Orange Stained Glass,1
+(95:2),Magenta Stained Glass,1
+(95:3),Light Blue Stained Glass,1
+(95:4),Yellow Stained Glass,1
+(95:5),Lime Stained Glass,1
+(95:6),Pink Stained Glass,1
+(95:7),Gray Stained Glass,1
+(95:8),Light Grey Stained Glass,1
+(95:9),Cyan Stained Glass,1
+(95:10),Purple Stained Glass,1
+(95:11),Blue Stained Glass,1
+(95:12),Brown Stained Glass,1
+(95:13),Green Stained Glass,1
+(95:14),Red Stained Glass,1
+(95:15),Black Stained Glass,1
+(96:0),Trapdoor,1
+(96:1),Trapdoor,1
+(96:2),Trapdoor,1
+(96:3),Trapdoor,1
+(96:4),Trapdoor,1
+(96:5),Trapdoor,1
+(96:6),Trapdoor,1
+(96:7),Trapdoor,1
+(96:8),Trapdoor,1
+(96:9),Trapdoor,1
+(96:10),Trapdoor,1
+(96:11),Trapdoor,1
+(96:12),Trapdoor,1
+(96:13),Trapdoor,1
+(96:14),Trapdoor,1
+(96:15),Trapdoor,1
+(97:0),Silverfish Block (Stone),1
+(97:1),Silverfish Block (Cobblestone),1
+(97:2),Silverfish Block (Stone Bricks),1
+(97:3),Silverfish Block (Mossy Stone Bricks),1
+(97:4),Silverfish Block (Cracked Stone Bricks),1
+(97:5),Silverfish Block (Chiseled Stone Bricks),1
+(98:0),Stone Bricks,1
+(98:1),Mossy Stone Bricks,1
+(98:2),Cracked Stone Bricks,1
+(98:3),Chiseled Stone Bricks,1
+(99:0),Huge Brown Mushroom,1
+(99:1),Huge Brown Mushroom (Northwest),1
+(99:2),Huge Brown Mushroom (North),1
+(99:3),Huge Brown Mushroom (Northeast),1
+(99:4),Huge Brown Mushroom (West),1
+(99:5),Huge Brown Mushroom (Top),1
+(99:6),Huge Brown Mushroom (East),1
+(99:7),Huge Brown Mushroom (Southwest),1
+(99:8),Huge Brown Mushroom (South),1
+(99:9),Huge Brown Mushroom (Southeast),1
+(99:10),Huge Brown Mushroom (Stem),1
+(99:14),Huge Brown Mushroom,1
+(99:15),Huge Brown Mushroom,1
+(100:0),Huge Red Mushroom,1
+(100:1),Huge Red Mushroom (Northwest),1
+(100:2),Huge Red Mushroom (North),1
+(100:3),Huge Red Mushroom (Northeast),1
+(100:4),Huge Red Mushroom (West),1
+(100:5),Huge Red Mushroom (Top),1
+(100:6),Huge Red Mushroom (East),1
+(100:7),Huge Red Mushroom (Southwest),1
+(100:8),Huge Red Mushroom (South),1
+(100:9),Huge Red Mushroom (Southeast),1
+(100:10),Huge Red Mushroom (Stem),1
+(100:14),Huge Red Mushroom,1
+(100:15),Huge Red Mushroom,1
+(101:0),Iron Bars,17
+(102:0),Glass Pane,16
+(103:0),Watermelon,1
+(104:0),Pumpkin Stem,5
+(104:1),Pumpkin Stem,5
+(104:2),Pumpkin Stem,5
+(104:3),Pumpkin Stem,5
+(104:4),Pumpkin Stem,5
+(104:5),Pumpkin Stem,5
+(104:6),Pumpkin Stem,5
+(104:7),Pumpkin Stem,5
+(105:0),Melon Stem,5
+(105:1),Melon Stem,5
+(105:2),Melon Stem,5
+(105:3),Melon Stem,5
+(105:4),Melon Stem,5
+(105:5),Melon Stem,5
+(105:6),Melon Stem,6
+(105:7),Melon Stem,5
+(106:0),Vines (Other),2
+(106:1),Vines (North),2
+(106:2),Vines (East),2
+(106:3),Vines (Other),2
+(106:4),Vines (South),2
+(106:5),Vines (Other),2
+(106:6),Vines (Other),2
+(106:7),Vines (Other),2
+(106:8),Vines (West),2
+(106:9),Vines (Other),2
+(106:10),Vines (Other),2
+(106:11),Vines (Other),2
+(106:12),Vines (Other),2
+(106:13),Vines (Other),2
+(106:14),Vines (Other),2
+(106:15),Vines (Other),2
+(107:0),Oak Fence Gate,2
+(107:1),Oak Fence Gate,2
+(107:2),Oak Fence Gate,2
+(107:3),Oak Fence Gate,2
+(107:4),Oak Fence Gate,2
+(107:5),Oak Fence Gate,2
+(107:6),Oak Fence Gate,2
+(107:7),Oak Fence Gate,2
+(107:8),Oak Fence Gate,2
+(107:9),Oak Fence Gate,2
+(107:10),Oak Fence Gate,2
+(107:11),Oak Fence Gate,2
+(107:12),Oak Fence Gate,2
+(107:13),Oak Fence Gate,2
+(107:14),Oak Fence Gate,2
+(107:15),Oak Fence Gate,2
+(108:0),Brick Stairs,5
+(108:1),Brick Stairs,5
+(108:2),Brick Stairs,6
+(108:3),Brick Stairs,5
+(108:4),Brick Stairs,5
+(108:5),Brick Stairs,5
+(108:6),Brick Stairs,5
+(108:7),Brick Stairs,5
+(109:0),Stone Brick Stairs,5
+(109:1),Stone Brick Stairs,5
+(109:2),Stone Brick Stairs,5
+(109:3),Stone Brick Stairs,5
+(109:4),Stone Brick Stairs,5
+(109:5),Stone Brick Stairs,5
+(109:6),Stone Brick Stairs,5
+(109:7),Stone Brick Stairs,5
+(110:0),Mycelium,2
+(111:0),Lily Pad,1
+(112:0),Nether Brick,1
+(113:0),Nether Brick Fence,16
+(114:0),Nether Brick Stairs,5
+(114:1),Nether Brick Stairs,5
+(114:2),Nether Brick Stairs,5
+(114:3),Nether Brick Stairs,6
+(114:4),Nether Brick Stairs,5
+(114:5),Nether Brick Stairs,5
+(114:6),Nether Brick Stairs,5
+(114:7),Nether Brick Stairs,5
+(115:0),Nether Wart,1
+(115:1),Nether Wart,1
+(115:2),Nether Wart,1
+(115:3),Nether Wart,1
+(116:0),Enchantment Table,1
+(117:0),Brewing Stand,1
+(117:1),Brewing Stand,1
+(117:2),Brewing Stand,1
+(117:3),Brewing Stand,1
+(117:4),Brewing Stand,1
+(117:5),Brewing Stand,1
+(117:6),Brewing Stand,1
+(117:7),Brewing Stand,1
+(118:0),Cauldron,1
+(118:1),Cauldron,1
+(118:2),Cauldron,1
+(118:3),Cauldron,1
+(119:0),End Portal,1
+(120:0),End Portal Frame,1
+(120:1),End Portal Frame,1
+(120:2),End Portal Frame,1
+(120:3),End Portal Frame,1
+(120:4),End Portal Frame,1
+(120:5),End Portal Frame,1
+(120:6),End Portal Frame,1
+(120:7),End Portal Frame,1
+(121:0),End Stone,1
+(122:0),Dragon Egg,1
+(123:0),Redstone Lamp (Off),1
+(124:0),Redstone Lamp (On),1
+(125:0),Double Oak Wood Slab,1
+(125:1),Double Spruce Wood Slab,1
+(125:2),Double Birch Wood Slab,1
+(125:3),Double Jungle Wood Slab,1
+(125:4),Double Acacia Wood Slab,1
+(125:5),Double Dark Oak Wood Slab,1
+(126:0),Oak Wood Slab,1
+(126:1),Spruce Wood Slab,1
+(126:2),Birch Wood Slab,1
+(126:3),Jungle Wood Slab,1
+(126:4),Acacia Wood Slab,1
+(126:5),Dark Oak Wood Slab,1
+(126:8),Oak Wood Slab (Upper),1
+(126:9),Spruce Wood Slab (Upper),1
+(126:10),Birch Wood Slab (Upper),1
+(126:11),Jungle Wood Slab (Upper),1
+(126:12),Acacia Wood Slab (Upper),1
+(126:13),Dark Oak Wood Slab (Upper),1
+(127:0),Cocoa Plant,1
+(127:1),Cocoa Plant,1
+(127:2),Cocoa Plant,1
+(127:3),Cocoa Plant,1
+(127:4),Cocoa Plant,1
+(127:5),Cocoa Plant,2
+(127:6),Cocoa Plant,1
+(127:7),Cocoa Plant,1
+(127:8),Cocoa Plant,1
+(127:9),Cocoa Plant,1
+(127:10),Cocoa Plant,1
+(127:11),Cocoa Plant,1
+(128:0),Sandstone Stairs,5
+(128:1),Sandstone Stairs,5
+(128:2),Sandstone Stairs,5
+(128:3),Sandstone Stairs,5
+(128:4),Sandstone Stairs,5
+(128:5),Sandstone Stairs,5
+(128:6),Sandstone Stairs,5
+(128:7),Sandstone Stairs,5
+(129:0),Emerald Ore,1
+(130:2),Ender Chest (North),1
+(130:3),Ender Chest (South),1
+(130:4),Ender Chest (West),1
+(130:5),Ender Chest (East),1
+(131:0),Tripwire Hook,2
+(131:1),Tripwire Hook,2
+(131:2),Tripwire Hook,2
+(131:3),Tripwire Hook,2
+(131:4),Tripwire Hook,2
+(131:5),Tripwire Hook,2
+(131:6),Tripwire Hook,2
+(131:7),Tripwire Hook,2
+(131:8),Tripwire Hook,2
+(131:9),Tripwire Hook,2
+(131:10),Tripwire Hook,2
+(131:11),Tripwire Hook,2
+(131:12),Tripwire Hook,2
+(131:13),Tripwire Hook,2
+(131:14),Tripwire Hook,2
+(131:15),Tripwire Hook,2
+(132:0),Tripwire,16
+(132:1),Tripwire,16
+(132:2),Tripwire,16
+(132:3),Tripwire,16
+(132:4),Tripwire,17
+(132:5),Tripwire,16
+(132:6),Tripwire,16
+(132:7),Tripwire,16
+(132:8),Tripwire,16
+(132:9),Tripwire,16
+(132:10),Tripwire,17
+(132:11),Tripwire,16
+(132:12),Tripwire,16
+(132:13),Tripwire,17
+(132:14),Tripwire,16
+(132:15),Tripwire,16
+(133:0),Block of Emerald,1
+(134:0),Spruce Wood Stairs,5
+(134:1),Spruce Wood Stairs,5
+(134:2),Spruce Wood Stairs,6
+(134:3),Spruce Wood Stairs,5
+(134:4),Spruce Wood Stairs,5
+(134:5),Spruce Wood Stairs,5
+(134:6),Spruce Wood Stairs,5
+(134:7),Spruce Wood Stairs,5
+(135:0),Birch Wood Stairs,5
+(135:1),Birch Wood Stairs,5
+(135:2),Birch Wood Stairs,5
+(135:3),Birch Wood Stairs,5
+(135:4),Birch Wood Stairs,5
+(135:5),Birch Wood Stairs,5
+(135:6),Birch Wood Stairs,5
+(135:7),Birch Wood Stairs,5
+(136:0),Jungle Wood Stairs,5
+(136:1),Jungle Wood Stairs,6
+(136:2),Jungle Wood Stairs,5
+(136:3),Jungle Wood Stairs,5
+(136:4),Jungle Wood Stairs,5
+(136:5),Jungle Wood Stairs,5
+(136:6),Jungle Wood Stairs,5
+(136:7),Jungle Wood Stairs,5
+(137:0),Command Block,1
+(137:1),Command Block,1
+(138:0),Beacon Block,1
+(139:0),Cobblestone Wall,32
+(139:1),Mossy Cobblestone Wall,32
+(140:0),Flower Pot,23
+(140:1),Flower Pot,22
+(140:2),Flower Pot,23
+(140:3),Flower Pot,22
+(140:4),Flower Pot,22
+(140:5),Flower Pot,22
+(140:6),Flower Pot,22
+(140:7),Flower Pot,23
+(140:8),Flower Pot,22
+(140:9),Flower Pot,23
+(140:10),Flower Pot,22
+(140:11),Flower Pot,22
+(140:12),Flower Pot,22
+(140:13),Flower Pot,22
+(140:14),Flower Pot,22
+(140:15),Flower Pot,22
+(141:0),Carrots,1
+(141:1),Carrots,1
+(141:2),Carrots,1
+(141:3),Carrots,1
+(141:4),Carrots,1
+(141:5),Carrots,1
+(141:6),Carrots,1
+(141:7),Carrots,1
+(142:0),Potatoes,1
+(142:1),Potatoes,1
+(142:2),Potatoes,1
+(142:3),Potatoes,2
+(142:4),Potatoes,1
+(142:5),Potatoes,1
+(142:6),Potatoes,1
+(142:7),Potatoes,1
+(143:0),Wooden Button,1
+(143:1),Wooden Button,1
+(143:2),Wooden Button,1
+(143:3),Wooden Button,1
+(143:4),Wooden Button,1
+(143:5),Wooden Button,1
+(143:8),Wooden Button,1
+(143:9),Wooden Button,1
+(143:10),Wooden Button,1
+(143:11),Wooden Button,1
+(143:12),Wooden Button,1
+(143:13),Wooden Button,1
+(144:0),Mob Head,1
+(144:1),Mob Head,1
+(144:2),Mob Head,1
+(144:3),Mob Head,1
+(144:4),Mob Head,1
+(144:5),Mob Head,1
+(144:8),Mob Head,1
+(144:9),Mob Head,1
+(144:10),Mob Head,1
+(144:11),Mob Head,1
+(144:12),Mob Head,1
+(144:13),Mob Head,1
+(145:0),Anvil (North/South),1
+(145:1),Anvil (East/West),1
+(145:2),Anvil (North/South),1
+(145:3),Anvil (East/West),1
+(145:4),Anvil (Damaged)(North/South),1
+(145:5),Anvil (Damaged)(East/West),1
+(145:6),Anvil (Damaged)(North/South),1
+(145:7),Anvil (Damaged)(East/West),1
+(145:8),Anvil (Very Damaged)(North/South),1
+(145:9),Anvil (Very Damaged)(North/South),1
+(145:10),Anvil (Very Damaged)(North/South),1
+(145:11),Anvil (Very Damaged)(North/South),1
+(146:2),Trapped Chest (North),1
+(146:3),Trapped Chest (South),1
+(146:4),Trapped Chest (West),1
+(146:5),Trapped Chest (East),1
+(147:0),Weighted Pressure Plate (Light),1
+(147:1),Weighted Pressure Plate (Light),1
+(147:2),Weighted Pressure Plate (Light),1
+(147:3),Weighted Pressure Plate (Light),1
+(147:4),Weighted Pressure Plate (Light),1
+(147:5),Weighted Pressure Plate (Light),1
+(147:6),Weighted Pressure Plate (Light),1
+(147:7),Weighted Pressure Plate (Light),1
+(147:8),Weighted Pressure Plate (Light),1
+(147:9),Weighted Pressure Plate (Light),1
+(147:10),Weighted Pressure Plate (Light),1
+(147:11),Weighted Pressure Plate (Light),1
+(147:12),Weighted Pressure Plate (Light),1
+(147:13),Weighted Pressure Plate (Light),1
+(147:14),Weighted Pressure Plate (Light),1
+(147:15),Weighted Pressure Plate (Light),1
+(148:0),Weighted Pressure Plate (Heavy),1
+(148:1),Weighted Pressure Plate (Heavy),1
+(148:2),Weighted Pressure Plate (Heavy),1
+(148:3),Weighted Pressure Plate (Heavy),1
+(148:4),Weighted Pressure Plate (Heavy),1
+(148:5),Weighted Pressure Plate (Heavy),1
+(148:6),Weighted Pressure Plate (Heavy),1
+(148:7),Weighted Pressure Plate (Heavy),1
+(148:8),Weighted Pressure Plate (Heavy),1
+(148:9),Weighted Pressure Plate (Heavy),1
+(148:10),Weighted Pressure Plate (Heavy),1
+(148:11),Weighted Pressure Plate (Heavy),1
+(148:12),Weighted Pressure Plate (Heavy),1
+(148:13),Weighted Pressure Plate (Heavy),1
+(148:14),Weighted Pressure Plate (Heavy),1
+(148:15),Weighted Pressure Plate (Heavy),1
+(149:0),Redstone Comparator (Off) (North),1
+(149:1),Redstone Comparator (Off) (East),1
+(149:2),Redstone Comparator (Off) (South),1
+(149:3),Redstone Comparator (Off) (West),1
+(149:4),Redstone Comparator (Off) (North),1
+(149:5),Redstone Comparator (Off) (North),1
+(149:6),Redstone Comparator (Off) (North),1
+(149:7),Redstone Comparator (Off) (North),1
+(149:8),Redstone Comparator (Off) (North),1
+(149:9),Redstone Comparator (Off) (North),1
+(149:10),Redstone Comparator (Off) (North),1
+(149:11),Redstone Comparator (Off) (North),2
+(149:12),Redstone Comparator (Off) (North),1
+(149:13),Redstone Comparator (Off) (North),1
+(149:14),Redstone Comparator (Off) (North),1
+(149:15),Redstone Comparator (Off) (North),1
+(150:0),Redstone Comparator (On) (North),1
+(150:1),Redstone Comparator (On) (East),1
+(150:2),Redstone Comparator (On) (South),1
+(150:3),Redstone Comparator (On) (West),1
+(150:4),Redstone Comparator (On) (North),1
+(150:5),Redstone Comparator (On) (North),1
+(150:6),Redstone Comparator (On) (North),1
+(150:7),Redstone Comparator (On) (North),1
+(150:8),Redstone Comparator (On) (North),1
+(150:9),Redstone Comparator (On) (North),1
+(150:10),Redstone Comparator (On) (North),1
+(150:11),Redstone Comparator (On) (North),1
+(150:12),Redstone Comparator (On) (North),1
+(150:13),Redstone Comparator (On) (North),1
+(150:14),Redstone Comparator (On) (North),1
+(150:15),Redstone Comparator (On) (North),1
+(151:0),Daylight Sensor,1
+(151:1),Daylight Sensor,1
+(151:2),Daylight Sensor,1
+(151:3),Daylight Sensor,1
+(151:4),Daylight Sensor,1
+(151:5),Daylight Sensor,1
+(151:6),Daylight Sensor,1
+(151:7),Daylight Sensor,1
+(151:8),Daylight Sensor,1
+(151:9),Daylight Sensor,1
+(151:10),Daylight Sensor,1
+(151:11),Daylight Sensor,1
+(151:12),Daylight Sensor,1
+(151:13),Daylight Sensor,1
+(151:14),Daylight Sensor,1
+(151:15),Daylight Sensor,1
+(152:0),Block of Redstone,1
+(153:0),Nether Quartz Ore,1
+(154:0),Hopper (Down),1
+(154:2),Hopper (North),1
+(154:3),Hopper (South),1
+(154:4),Hopper (West),1
+(154:5),Hopper (East),1
+(154:8),Hopper (Down),1
+(154:10),Hopper (Down),1
+(154:11),Hopper (Down),1
+(154:12),Hopper (Down),1
+(154:13),Hopper (Down),1
+(155:0),Block of Quartz,1
+(155:1),Chiseled Quartz Block,1
+(155:2),Pillar Quartz Block (Upright),1
+(155:3),Pillar Quartz Block (East/West),1
+(155:4),Pillar Quartz Block (North/South),1
+(156:0),Quartz Stairs,6
+(156:1),Quartz Stairs,5
+(156:2),Quartz Stairs,5
+(156:3),Quartz Stairs,5
+(156:4),Quartz Stairs,5
+(156:5),Quartz Stairs,5
+(156:6),Quartz Stairs,5
+(156:7),Quartz Stairs,5
+(157:0),Activator Rail,1
+(157:1),Activator Rail,1
+(157:2),Activator Rail,1
+(157:3),Activator Rail,1
+(157:4),Activator Rail,1
+(157:5),Activator Rail,1
+(157:8),Activator Rail,1
+(157:9),Activator Rail,1
+(157:10),Activator Rail,1
+(157:11),Activator Rail,1
+(157:12),Activator Rail,1
+(157:13),Activator Rail,1
+(158:0),Dropper (Down),1
+(158:1),Dropper (Up),1
+(158:2),Dropper (North),1
+(158:3),Dropper (South),1
+(158:4),Dropper (West),1
+(158:5),Dropper (East),1
+(158:8),Dropper (Down),1
+(158:9),Dropper (Down),1
+(158:10),Dropper (Down),1
+(158:11),Dropper (Down),1
+(158:12),Dropper (Down),1
+(158:13),Dropper (Down),1
+(159:0),White Stained Clay,1
+(159:1),Orange Stained Clay,1
+(159:2),Magenta Stained Clay,1
+(159:3),Light Blue Stained Clay,1
+(159:4),Yellow Stained Clay,1
+(159:5),Lime Stained Clay,1
+(159:6),Pink Stained Clay,1
+(159:7),Gray Stained Clay,1
+(159:8),Light Gray Stained Clay,1
+(159:9),Cyan Stained Clay,1
+(159:10),Purple Stained Clay,1
+(159:11),Blue Stained Clay,1
+(159:12),Brown Stained Clay,1
+(159:13),Green Stained Clay,1
+(159:14),Red Stained Clay,1
+(159:15),Black Stained Clay,1
+(160:0),White Stained Glass Pane,16
+(160:1),Orange Stained Glass Pane,16
+(160:2),Magenta Stained Glass Pane,17
+(160:3),Light Blue Stained Glass Pane,16
+(160:4),Yellow Stained Glass Pane,16
+(160:5),Lime Stained Glass Pane,16
+(160:6),Pink Stained Glass Pane,16
+(160:7),Gray Stained Glass Pane,16
+(160:8),Light Grey Stained Glass Pane,17
+(160:9),Cyan Stained Glass Pane,16
+(160:10),Purple Stained Glass Pane,16
+(160:11),Blue Stained Glass Pane,16
+(160:12),Brown Stained Glass Pane,16
+(160:13),Green Stained Glass Pane,17
+(160:14),Red Stained Glass Pane,16
+(160:15),Black Stained Glass Pane,16
+(161:0),Acacia Leaves,1
+(161:1),Dark Oak Leaves,1
+(161:4),Acacia Leaves (No Decay),1
+(161:5),Dark Oak Leaves (No Decay),1
+(161:8),Acacia Leaves (Decaying),1
+(161:9),Dark Oak Leaves (Decaying),1
+(161:12),Acacia Leaves,1
+(161:13),Acacia Leaves,1
+(162:0),Acacia Wood (Upright),1
+(162:1),Dark Oak Wood (Upright),1
+(162:4),Acacia Wood (East/West),1
+(162:5),Dark Oak Wood (East/West),1
+(162:8),Acacia Wood (North/South),1
+(162:9),Dark Oak Wood (North/South),1
+(162:12),Acacia Wood (Bark Only),1
+(162:13),Dark Oak Wood (Bark Only),1
+(163:0),Acacia Wood Stairs,5
+(163:1),Acacia Wood Stairs,5
+(163:2),Acacia Wood Stairs,5
+(163:3),Acacia Wood Stairs,5
+(163:4),Acacia Wood Stairs,5
+(163:5),Acacia Wood Stairs,5
+(163:6),Acacia Wood Stairs,5
+(163:7),Acacia Wood Stairs,5
+(164:0),Dark Oak Wood Stairs,5
+(164:1),Dark Oak Wood Stairs,5
+(164:2),Dark Oak Wood Stairs,5
+(164:3),Dark Oak Wood Stairs,5
+(164:4),Dark Oak Wood Stairs,5
+(164:5),Dark Oak Wood Stairs,5
+(164:6),Dark Oak Wood Stairs,5
+(164:7),Dark Oak Wood Stairs,6
+(165:0),Slime Block,1
+(166:0),Barrier,1
+(167:0),Iron Trapdoor,1
+(167:1),Iron Trapdoor,1
+(167:2),Iron Trapdoor,1
+(167:3),Iron Trapdoor,1
+(167:4),Iron Trapdoor,1
+(167:5),Iron Trapdoor,1
+(167:6),Iron Trapdoor,1
+(167:7),Iron Trapdoor,1
+(167:8),Iron Trapdoor,1
+(167:9),Iron Trapdoor,1
+(167:10),Iron Trapdoor,1
+(167:11),Iron Trapdoor,1
+(167:12),Iron Trapdoor,1
+(167:13),Iron Trapdoor,1
+(167:14),Iron Trapdoor,1
+(167:15),Iron Trapdoor,1
+(168:0),Prismarine,1
+(168:1),Prismarine Bricks,1
+(168:2),Dark Prismarine,1
+(169:0),Sea Lantern,1
+(170:0),Hay Block (Upright),1
+(170:4),Hay Block (East/West),1
+(170:8),Hay Block (North/South),1
+(171:0),White Carpet,1
+(171:1),Orange Carpet,1
+(171:2),Magenta Carpet,1
+(171:3),Light Blue Carpet,1
+(171:4),Yellow Carpet,1
+(171:5),Lime Carpet,1
+(171:6),Pink Carpet,1
+(171:7),Gray Carpet,1
+(171:8),Light Gray Carpet,1
+(171:9),Cyan Carpet,1
+(171:10),Purple Carpet,1
+(171:11),Blue Carpet,1
+(171:12),Brown Carpet,1
+(171:13),Green Carpet,1
+(171:14),Red Carpet,1
+(171:15),Black Carpet,1
+(172:0),Hardened Clay,1
+(173:0),Block of Coal,1
+(174:0),Packed Ice,1
+(175:0),Sunflower Stem,1
+(175:1),Lilac Stem,1
+(175:2),Double Tallgrass Stem,1
+(175:3),Large Fern Stem,1
+(175:4),Rose Bush Stem,1
+(175:5),Peony Stem,1
+(175:8),Tall Plant Top,7
+(176:0),Free-Standing Banner,1
+(176:1),Free-Standing Banner,1
+(176:2),Free-Standing Banner (North),1
+(176:3),Free-Standing Banner (South),1
+(176:4),Free-Standing Banner (West),1
+(176:5),Free-Standing Banner (East),1
+(176:6),Free-Standing Banner,1
+(176:7),Free-Standing Banner,1
+(176:8),Free-Standing Banner,1
+(176:9),Free-Standing Banner,1
+(176:10),Free-Standing Banner,1
+(176:11),Free-Standing Banner,1
+(176:12),Free-Standing Banner,1
+(176:13),Free-Standing Banner,1
+(176:14),Free-Standing Banner,1
+(176:15),Free-Standing Banner,1
+(177:2),Wall-Mounted Banner (North),1
+(177:3),Wall-Mounted Banner (South),1
+(177:4),Wall-Mounted Banner (West),1
+(177:5),Wall-Mounted Banner (East),1
+(178:0),Inverted Daylight Sensor,1
+(178:1),Inverted Daylight Sensor,1
+(178:2),Inverted Daylight Sensor,1
+(178:3),Inverted Daylight Sensor,1
+(178:4),Inverted Daylight Sensor,1
+(178:5),Inverted Daylight Sensor,1
+(178:6),Inverted Daylight Sensor,1
+(178:7),Inverted Daylight Sensor,1
+(178:8),Inverted Daylight Sensor,1
+(178:9),Inverted Daylight Sensor,1
+(178:10),Inverted Daylight Sensor,1
+(178:11),Inverted Daylight Sensor,1
+(178:12),Inverted Daylight Sensor,1
+(178:13),Inverted Daylight Sensor,1
+(178:14),Inverted Daylight Sensor,1
+(178:15),Inverted Daylight Sensor,1
+(179:0),Red Sandstone,1
+(179:1),Smooth Red Sandstone,1
+(179:2),Chiseled Red Sandstone,1
+(180:0),Red Sandstone Stairs,5
+(180:1),Red Sandstone Stairs,5
+(180:2),Red Sandstone Stairs,5
+(180:3),Red Sandstone Stairs,5
+(180:4),Red Sandstone Stairs,5
+(180:5),Red Sandstone Stairs,5
+(180:6),Red Sandstone Stairs,5
+(180:7),Red Sandstone Stairs,5
+(181:0),Double Red Sandstone Slab,1
+(181:8),Smooth Double Red Sandstone Slab,1
+(182:0),Red Sandstone Slab,2
+(182:8),Red Sandstone Slab (Upper),1
+(183:0),Spruce Fence Gate,2
+(183:1),Spruce Fence Gate,2
+(183:2),Spruce Fence Gate,2
+(183:3),Spruce Fence Gate,2
+(183:4),Spruce Fence Gate,2
+(183:5),Spruce Fence Gate,2
+(183:6),Spruce Fence Gate,2
+(183:7),Spruce Fence Gate,2
+(183:8),Spruce Fence Gate,2
+(183:9),Spruce Fence Gate,2
+(183:10),Spruce Fence Gate,2
+(183:11),Spruce Fence Gate,2
+(183:12),Spruce Fence Gate,2
+(183:13),Spruce Fence Gate,2
+(183:14),Spruce Fence Gate,2
+(183:15),Spruce Fence Gate,2
+(184:0),Birch Fence Gate,2
+(184:1),Birch Fence Gate,2
+(184:2),Birch Fence Gate,2
+(184:3),Birch Fence Gate,2
+(184:4),Birch Fence Gate,2
+(184:5),Birch Fence Gate,2
+(184:6),Birch Fence Gate,2
+(184:7),Birch Fence Gate,2
+(184:8),Birch Fence Gate,2
+(184:9),Birch Fence Gate,2
+(184:10),Birch Fence Gate,2
+(184:11),Birch Fence Gate,2
+(184:12),Birch Fence Gate,2
+(184:13),Birch Fence Gate,2
+(184:14),Birch Fence Gate,2
+(184:15),Birch Fence Gate,2
+(185:0),Jungle Fence Gate,2
+(185:1),Jungle Fence Gate,2
+(185:2),Jungle Fence Gate,2
+(185:3),Jungle Fence Gate,2
+(185:4),Jungle Fence Gate,2
+(185:5),Jungle Fence Gate,2
+(185:6),Jungle Fence Gate,2
+(185:7),Jungle Fence Gate,2
+(185:8),Jungle Fence Gate,2
+(185:9),Jungle Fence Gate,2
+(185:10),Jungle Fence Gate,2
+(185:11),Jungle Fence Gate,2
+(185:12),Jungle Fence Gate,2
+(185:13),Jungle Fence Gate,2
+(185:14),Jungle Fence Gate,2
+(185:15),Jungle Fence Gate,3
+(186:0),Dark Oak Fence Gate,2
+(186:1),Dark Oak Fence Gate,2
+(186:2),Dark Oak Fence Gate,2
+(186:3),Dark Oak Fence Gate,2
+(186:4),Dark Oak Fence Gate,2
+(186:5),Dark Oak Fence Gate,2
+(186:6),Dark Oak Fence Gate,2
+(186:7),Dark Oak Fence Gate,2
+(186:8),Dark Oak Fence Gate,2
+(186:9),Dark Oak Fence Gate,2
+(186:10),Dark Oak Fence Gate,2
+(186:11),Dark Oak Fence Gate,2
+(186:12),Dark Oak Fence Gate,2
+(186:13),Dark Oak Fence Gate,2
+(186:14),Dark Oak Fence Gate,2
+(186:15),Dark Oak Fence Gate,2
+(187:0),Acacia Fence Gate,2
+(187:1),Acacia Fence Gate,2
+(187:2),Acacia Fence Gate,2
+(187:3),Acacia Fence Gate,2
+(187:4),Acacia Fence Gate,2
+(187:5),Acacia Fence Gate,2
+(187:6),Acacia Fence Gate,2
+(187:7),Acacia Fence Gate,2
+(187:8),Acacia Fence Gate,2
+(187:9),Acacia Fence Gate,2
+(187:10),Acacia Fence Gate,2
+(187:11),Acacia Fence Gate,2
+(187:12),Acacia Fence Gate,2
+(187:13),Acacia Fence Gate,2
+(187:14),Acacia Fence Gate,2
+(187:15),Acacia Fence Gate,2
+(188:0),Spruce Fence,16
+(189:0),Birch Fence,17
+(190:0),Jungle Fence,16
+(191:0),Dark Oak Fence,16
+(192:0),Acacia Fence,16
+(193:0),Spruce Door,4
+(193:1),Spruce Door,5
+(193:2),Spruce Door,4
+(193:3),Spruce Door,4
+(193:4),Spruce Door,4
+(193:5),Spruce Door,4
+(193:6),Spruce Door,4
+(193:7),Spruce Door,4
+(193:8),Spruce Door,8
+(193:9),Spruce Door,8
+(193:10),Spruce Door,8
+(193:11),Spruce Door,8
+(194:0),Birch Door,4
+(194:1),Birch Door,4
+(194:2),Birch Door,4
+(194:3),Birch Door,4
+(194:4),Birch Door,4
+(194:5),Birch Door,4
+(194:6),Birch Door,4
+(194:7),Birch Door,4
+(194:8),Birch Door,9
+(194:9),Birch Door,8
+(194:10),Birch Door,8
+(194:11),Birch Door,8
+(195:0),Jungle Door,4
+(195:1),Jungle Door,4
+(195:2),Jungle Door,4
+(195:3),Jungle Door,4
+(195:4),Jungle Door,4
+(195:5),Jungle Door,4
+(195:6),Jungle Door,4
+(195:7),Jungle Door,4
+(195:8),Jungle Door,8
+(195:9),Jungle Door,8
+(195:10),Jungle Door,8
+(195:11),Jungle Door,8
+(196:0),Acacia Door,4
+(196:1),Acacia Door,4
+(196:2),Acacia Door,4
+(196:3),Acacia Door,4
+(196:4),Acacia Door,4
+(196:5),Acacia Door,4
+(196:6),Acacia Door,4
+(196:7),Acacia Door,5
+(196:8),Acacia Door,8
+(196:9),Acacia Door,8
+(196:10),Acacia Door,8
+(196:11),Acacia Door,8
+(197:0),Dark Oak Door,4
+(197:1),Dark Oak Door,4
+(197:2),Dark Oak Door,4
+(197:3),Dark Oak Door,4
+(197:4),Dark Oak Door,4
+(197:5),Dark Oak Door,4
+(197:6),Dark Oak Door,4
+(197:7),Dark Oak Door,4
+(197:8),Dark Oak Door,8
+(197:9),Dark Oak Door,9
+(197:10),Dark Oak Door,8
+(197:11),Dark Oak Door,8
+,,
+,<TileEntities>,1
+Hopper,Hopper,1

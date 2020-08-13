@@ -1,0 +1,80 @@
+#description p {
+  margin-top: -4px;
+}
+
+.goog-menu-button-caption {
+  display: none !important;
+}
+
+.announcements {
+  margin: 0 10px;
+  padding: 10px 0 0;
+  position: relative;
+}
+
+.announcement {
+  padding: 5px;
+  border-bottom: 1px solid #efefef;
+  clear: both;
+  margin: 10px 0;
+}
+
+.announcements .announcement h4 {
+  font-size: 15px;
+  font-weight: bold;
+  margin: 4px 0;
+}
+
+.announcements .announcement h4 span {
+  font-size: 11px;
+  font-weight: normal;
+}
+
+.announcements .announcement p {
+  margin: 5px 0 10px;
+}
+
+.announcements .announcement .timestamp {
+  font-size: 12px;
+}
+
+.announcements .announcement .timestamp .updatedTime {
+  font-weight: bold;
+}
+
+.announcementsPostTimestamp {
+  font-size: 12px;
+  margin: 0 12px;
+}
+
+.announcementsPostTimestamp .updatedTime {
+  font-weight: bold;
+}
+
+.announcements .draft_announcement_container {
+  border: 1px solid #fc3;
+  padding-bottom: 0;
+}
+
+.announcements .draft_announcement_container_title {
+  padding: 4px;
+  font-weight: bold;
+}
+
+.postfooter {
+  font-size: 11px;
+  margin: 0;
+  padding: 0;
+  clear: both;
+}
+
+.postfooter {
+  font-size: 11px;
+  margin: 0;
+  padding: 0;
+  clear: both;
+}
+
+.announcements table div {
+  background-color: transparent;
+}
